@@ -1,4 +1,4 @@
-# Hellow, I am Jonathan Byrne 👋
+# Hello, I am Jonathan Byrne 👋
 
 👨‍🍳I’m a chef, currently upskilling to transition into the tech and data industry, with a real focus on data that can help drive positive healthy decisions.
 
