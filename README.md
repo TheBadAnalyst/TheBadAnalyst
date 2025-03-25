@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hellow, I am Jonathan Byrne 👋
+
+👨‍🍳I’m a chef, currently upskilling to transition into the tech and data industry, with a real focus on data that can help drive positive healthy decisions.
+
+⚕️My journey started with a curiosity about how data-driven insights can help me lead a healthy and fulfilling life 
+
+🙇‍♂️Having completed the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?utm_medium=sem&utm_source=gg&utm_campaign=b2c_apac_google-data-analytics_google_ftcof_professional-certificates_cx_dr_bau_gg_sem_pr_s1_all_m_hyb_24-03_x&campaignid=21094913418&adgroupid=161377117113&device=c&keyword=google%20data%20analytics%20certification&matchtype=p&network=g&devicemodel=&creativeid=696907040554&assetgroupid=&targetid=kwd-315485881576&extensionid=&placement=&gad_source=1&gclid=Cj0KCQjwqIm_BhDnARIsAKBYcmuR5N6qq3FyOrB4dEOXnYBS78_vEaquYNqRoEUDL4Aj4vDJQPTudqEaArCvEALw_wcB). I am looking to further my analytical and AI skills.
+
+📞I’m always looking to improve, build projects, and connect with others in the field. Feel free to check out my work and reach out!
 
 <!--
 **TheBadAnalyst/TheBadAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
